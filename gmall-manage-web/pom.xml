@@ -19,6 +19,13 @@
 	</properties>
 
 	<dependencies>
+
+		<dependency>
+			<groupId>org.csource</groupId>
+			<artifactId>fastdfs-client-java</artifactId>
+			<version>1.27-SNAPSHOT</version>
+		</dependency>
+
 		<dependency>
 			<groupId>com.shenrenye.gmall</groupId>
 			<artifactId>gmall-web-util</artifactId>
